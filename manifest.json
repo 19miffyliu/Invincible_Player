@@ -1,0 +1,9 @@
+{
+  "name": "Invincible_Player",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/19miffyliu/Invincible_Player",
+  "description": "Makes the player invincible to all kinds of damage.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
