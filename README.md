@@ -31,6 +31,11 @@ Please report bugs at [Github Issues Page](https://github.com/19miffyliu/Invinci
 - The kill animation will trap the player in place (can't move, can't interact).
 - The masked will keep duplicating the player if kill animation is enabled.
 - The player may get trapped below the cliff of the facility if they fall.
+- The player may not be able to drop item or use scroll wheel if they:
+  - fall in a pit (and getting sent back to the ship by another player)
+  - step on a landmine
+  - fall down from the sky using a jetpack from a super far height
+  - get struck by lightning
 
 # Update
 
